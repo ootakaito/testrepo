@@ -1,4 +1,6 @@
 print("Hello, World")
-d = 10
+a = 10
+b = 3
 c = 3
-print(c*d)
+d = 5
+print(a+b+c+d)
