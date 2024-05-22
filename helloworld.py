@@ -1,4 +1,4 @@
 print("Hello, World")
-a = 10
-b = 3
-print(a*b)
+d = 10
+c = 3
+print(c*d)
